@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+main{
+    background-color: aquamarine;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 5px black;
+    
+}
